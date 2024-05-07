@@ -18,8 +18,8 @@
     <element xsi:type="archimate:Goal" name="Avaliar presença de verificados" id="id-6fcb1e0cb3af4080932d90716f71a54d"/>
     <element xsi:type="archimate:Principle" name="Caso figura pública não tenha verificado, deverá ter parâmetros 30% superiores a meta" id="id-9e563016208a47b88f1e334f79573e05"/>
     <element xsi:type="archimate:Outcome" name="Sendo o score de 0 a 10, a figura pública deve ter um score de 8" id="id-0f5ef2c184d24e098c1b4d5343e660e5"/>
-    <element xsi:type="archimate:Outcome" name="100 postagens por mês" id="id-939bae513d8045bba3ffbca02fc2e251"/>
-    <element xsi:type="archimate:Outcome" name="75 mil seguidores" id="id-22936c81abb74ef2b1af0b7ae5c56381"/>
+    <element xsi:type="archimate:Outcome" name="Minio 100 postagens por mês" id="id-939bae513d8045bba3ffbca02fc2e251"/>
+    <element xsi:type="archimate:Outcome" name="Mínimo 75 mil seguidores" id="id-22936c81abb74ef2b1af0b7ae5c56381"/>
     <element xsi:type="archimate:Outcome" name="Área que a figura pública atua, deverá ser a mesma que o produto/serviço da empresa" id="id-57a694a9d56443af951b1d97f689dc84"/>
     <element xsi:type="archimate:Requirement" name="Realizar a avaliação por meio de IA Generativa" id="id-f030a6923f8e438fb670eba7c402639b"/>
     <element xsi:type="archimate:Constraint" name="Com o uso da IA Generativa e a massa de dados (nesse caso os posts que envolvem a figura pública), fazer uma análise de &quot;sentimento&quot; para verificar como anda a imagem da figura a ser apresentada ao cliente e armazenar essa informação em banco" id="id-303580ce441b4ea6bda9db1c2c2ad215"/>
