@@ -647,16 +647,18 @@
         <bounds x="3144" y="1164" width="184" height="103"/>
       </child>
       <child xsi:type="archimate:Note" id="id-5fdea7c210884c2d8912153c60c9b68c" textAlignment="1">
-        <bounds x="-468" y="314" width="185" height="80"/>
-        <content>GRUPO: Vitor Teixeira Silva - RM552228 | Lucas Serbato de Barros - RM551821</content>
+        <bounds x="-468" y="314" width="241" height="58"/>
+        <content>GRUPO:&#xD;
+Vitor Teixeira Silva - RM552228&#xD;
+Lucas Serbato de Barros - RM551821</content>
       </child>
       <child xsi:type="archimate:Note" id="id-636523050ef64939bba2d70dec6e135c" textAlignment="1">
-        <bounds x="-328" y="485" width="185" height="80"/>
+        <bounds x="-487" y="417" width="469" height="270"/>
         <content>1 - R. A Função do TOGAF é alinhar práticas de governança com as decisões para o planejamento do próprio projeto em si e a implementação da solução; Entre as decisões orientadas, estão gestão de risco e aprimoramento continuo, além disso, através da arquitetura de requisitos de negócios e a arquitetura do sistema, alinhado com uma arquitetura de infraestrutura. Em resumo, a TOGAF é para alinhar todas as partes do projeto com os ideais da empresa e a regra do negócio, além de conversar com todas as áreas da empresa para determinar um projeto interessante em que todos estejam envolvidos.&#xD;
 &#xD;
 2 - R. Por ser um framework de projeto, ele define métodos de entrega, métodos de lidar com documentação e além de ter estruturada uma arquitetura de infraestrutura, o que facilita a criação de planos de projeto consistentes e alinhados com a indústria.&#xD;
 &#xD;
-3 - </content>
+3 - R. Por ter uma arquitetura de sistemas elaborada previamente, facilita o processo de criação da documentação dos testes de software</content>
       </child>
     </element>
   </folder>

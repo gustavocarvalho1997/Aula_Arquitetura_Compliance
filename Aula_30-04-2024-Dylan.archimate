@@ -617,9 +617,6 @@
         <bounds x="1968" y="2426" width="120" height="23"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-fe141b80d1bc4ed29c845a9d60e7b8a5" source="id-45985d6b8fc141bd8a32830ddb7149f7" target="id-6038bf2c9e664a3c82527e5e4f548df8" archimateRelationship="id-e1881759dbf34f9d8d1023281690dd7a"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-d72cc68532fc4fce9b164bb4a15c1c37" archimateElement="id-f068bda338ca43059f8d5a8774a1dc64">
-        <bounds x="1622" y="1836" width="120" height="23"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-b633829d10a4477e841715a64e45782b" targetConnections="id-333c4320ddcd4a169d375b25485e58ff" archimateElement="id-f066d4fa03da458fb410b8f2af6f4b12">
         <bounds x="1834" y="2426" width="120" height="23"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-36b00728d160481abae69a41a630bc8e" source="id-b633829d10a4477e841715a64e45782b" target="id-033becf0c4b542698c2b7f5c899e0434" archimateRelationship="id-ba7b5126cfcc4285a237508b57315f22"/>

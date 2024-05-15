@@ -65,7 +65,11 @@
     <element xsi:type="archimate:DataObject" name="Cadastro de figuras públicas" id="id-09bc0f5aeeda4dacaa48b698de8d0e16"/>
     <element xsi:type="archimate:DataObject" name="Cadastro de Categorias" id="id-c65625f1e1954d9a958162b12da5ff75"/>
   </folder>
-  <folder name="Technology &amp; Physical" id="id-e3e6fd2b197f44579c0f47f2da5743e6" type="technology"/>
+  <folder name="Technology &amp; Physical" id="id-e3e6fd2b197f44579c0f47f2da5743e6" type="technology">
+    <element xsi:type="archimate:TechnologyService" name="Serviço de acesso a aplicação" id="id-059e2a2b93e34ad996d04eb7db12d54a"/>
+    <element xsi:type="archimate:TechnologyInterface" name="Comunicação por TCP/IP em Intranet" id="id-cb17fdf43e2e4f68914e5eae5d62b1e7"/>
+    <element xsi:type="archimate:Device" name="Celular particular do usuário" id="id-ace2b043a64f45cca331817f956ec603"/>
+  </folder>
   <folder name="Motivation" id="id-cf5e4e0af6544092b913f95a04478c81" type="motivation">
     <element xsi:type="archimate:Stakeholder" name="Plusoft" id="id-5389ebd1078a4991ad79e73965eb59a1"/>
     <element xsi:type="archimate:Stakeholder" name="Stakeholder" id="id-1ce6b2b2c6054e1d80e5db87714d4827"/>
@@ -659,6 +663,15 @@ Lucas Serbato de Barros - RM551821</content>
 2 - R. Por ser um framework de projeto, ele define métodos de entrega, métodos de lidar com documentação e além de ter estruturada uma arquitetura de infraestrutura, o que facilita a criação de planos de projeto consistentes e alinhados com a indústria.&#xD;
 &#xD;
 3 - R. Por ter uma arquitetura de sistemas elaborada previamente, facilita o processo de criação da documentação dos testes de software</content>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-b1e7610b37d443c6ba1f01fafa96f34a" archimateElement="id-059e2a2b93e34ad996d04eb7db12d54a">
+        <bounds x="2680" y="2211" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-f643a659d51c4e119f3913d11d981d15" archimateElement="id-cb17fdf43e2e4f68914e5eae5d62b1e7">
+        <bounds x="2680" y="2316" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="id-e2bbeb7498aa4710a5d2df36c3f2057b" archimateElement="id-ace2b043a64f45cca331817f956ec603">
+        <bounds x="2856" y="2316" width="120" height="55"/>
       </child>
     </element>
   </folder>
