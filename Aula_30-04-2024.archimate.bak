@@ -597,7 +597,7 @@
         <bounds x="753" y="1992" width="128" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-495acbf05af0415eae0cc2534c00be1f" targetConnections="id-5e8d54fbd9924a6a9fcb1d718c02acb3" archimateElement="id-a09a3ffa6d3f4cf8b9fcd86fb01a84cc">
-        <bounds x="204" y="1566" width="120" height="41"/>
+        <bounds x="-12" y="1566" width="120" height="41"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-415cafbc336d433cbb256a9a48b63b1d" targetConnections="id-79feb668d7574e1f9aecb1da176249b0" archimateElement="id-e53a57d72bde4abc973b3d96b3889007">
         <bounds x="1998" y="495" width="139" height="66"/>
